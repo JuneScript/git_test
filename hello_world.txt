@@ -1,0 +1,1 @@
+use ctrl ` to open built in terminal in vsc
